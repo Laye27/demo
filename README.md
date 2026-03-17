@@ -8,11 +8,11 @@ It is composed of two major parts:
 
 * **backend**: a backend app (a very simple JSON API built using Node and ExpressJS)
 * **frontend**: a single-page frontend app (built using React and create-react-app)
-
+https://github.com/pi-apps/demo/pull/372#issuecomment-4071900239
 
 ## Initial Development
 
-Read [`doc/development.md`](./doc/development.md) to get started and learn how to run this app in development.
+Read [`doc/developmehttps://sandbox.minepi.com/app/laye-pi-networknt.md`](./doc/development.md) to get started and learn how to run this app in development.
 
 > **WARNING**
 >
@@ -22,7 +22,7 @@ Read [`doc/development.md`](./doc/development.md) to get started and learn how t
 
 ## Deployment
 
-Read [`doc/deployment.md`](./doc/deployment.md) to learn how to deploy this app on a server using Docker and docker-compose.
+Read [`doc/dhttps://github.com/pi-apps/demo.giteployment.md`](./doc/deployment.md) to learn how to deploy this app on a server using Docker and docker-compose.
 
 
 ## Flows
